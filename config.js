@@ -7,6 +7,6 @@
 // KEY  = the "anon" or "publishable" key from Project Settings > API
 //        (never put the service_role / secret key in a web app).
 export const CONFIG = {
-  SUPABASE_URL: "",
-  SUPABASE_ANON_KEY: "",
+  SUPABASE_URL: "https://fqfcutbkhgxjicwrmiso.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_nbiPKY5VzKBk7gRjbddyTw_0dFgmj_c",
 };
